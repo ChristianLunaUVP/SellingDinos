@@ -1,0 +1,66 @@
+.bg-vino{
+    background-color: #571b3c;
+    color: white;
+    text-align: center;
+}
+.bg-morado{
+    background-color: #341931;
+}
+.bg-azul{
+    background-color: #27376b;
+    color: white;
+}
+.bg-violeta{
+    background-color: #e0d1ed;
+}
+.tarjet-border{
+    border-color: #ffffff;
+}
+.h-200{
+    height: 250px !important;
+}
+.img-asa{
+    width: 100px !important;
+    height: 100px !important;
+}  
+.table-width{
+    width: 335px !important;
+}
+.formulario{
+    background-color: #111625;
+    color: #ffffff;
+    border-radius: 25px;
+    box-shadow: #000000 1px 1px 10px;
+    margin-bottom: 2%;
+    margin-right: 10%;
+    padding: 20px;
+    width: 100%;
+}
+.seccion-table{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+flex-wrap: wrap;
+margin: 1%;
+}
+.seccion-img {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.seccion-img img {
+    width: 300px;
+    border-radius: 25px;
+    box-shadow: #fcfcfc 1px 1px 10px;
+}
+.contendor-seccion-table {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.img-def{
+    width: 300px;
+    height: 250px !important;
+}
